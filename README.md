@@ -20,6 +20,11 @@
 </thead>
 </table>
 
+<p align="center" dir="auto">
+	  <a href="https://www.linkedin.com/in/dmitriy-rozhkov-1020ba281/" rel="nofollow">
+		  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	  </a>
+</p>
 
 <!--
 <a href="https://github.com/jasontaylordev">
