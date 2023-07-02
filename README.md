@@ -4,10 +4,10 @@
 <thead>
 <tr>
 	<th><a href="https://github.com/javaexplorer1">
-		<img alt="Dmitriy's github stats" src="https://github-readme-stats.vercel.app/api?username=javaexplorer1&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" style="max-width: 100%;" align="middle">
+		<img align="center" alt="Dmitriy's github stats" src="https://github-readme-stats.vercel.app/api?username=javaexplorer1&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" style="max-width: 100%;" align="middle">
 	</a></th>
 	<th><a href="https://github.com/javaexplorer1">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaexplorer1&amp;layout=compact&amp;hide_border=true" style="max-width: 100%;" align="middle">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaexplorer1&amp;layout=compact&amp;hide_border=true" style="max-width: 100%;" align="middle">
 	</a></th>
 </tr>
 </thead>
