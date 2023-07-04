@@ -17,6 +17,17 @@
 	 </a>
 </p>
 
+### Languages and tools: 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title ="Java" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title ="Docker" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title ="GitHub" width="40" height="40"/>&nbsp;&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title ="PostgreSQL" width="40" height="40"/>&nbsp;&nbsp;  -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" title ="Tomcat" width="40" height="40"/>&nbsp;&nbsp;  -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title ="Git" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title ="MySQL" width="40" height="40"/>&nbsp;&nbsp;
+
 
 <!--
 **javaexplorer1/javaexplorer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
