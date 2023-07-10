@@ -7,9 +7,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=javaexplorer1&layout=compact&theme=default&hide_border=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaexplorer1&layout=compact&theme=default&hide_border=true"/>
 </a> 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=javaexplorer1\&layout=compact&langs_count=4">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=javaexplorer1\&layout=compact&langs_count=4"/>
-</a>
 </div>
 
 <!--
