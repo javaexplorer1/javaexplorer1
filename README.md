@@ -1,5 +1,18 @@
 ## Hi, I'm Dmitriy  👋
 
+<div align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=javaexplorer1&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=javaexplorer1&theme=default&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=javaexplorer1&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=javaexplorer1&theme=default&hide_border=true" alt="Dmitriy Rozhkov's GitHub Stats"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=javaexplorer1&layout=compact&theme=default&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaexplorer1&layout=compact&theme=default&hide_border=true"/>
+</a> 
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=javaexplorer1\&layout=compact&langs_count=4">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=javaexplorer1\&layout=compact&langs_count=4"/>
+</a>
+</div>
+
+<!--
 <table><thead><tr>
 <th><a href="https://github-readme-stats.vercel.app/api?username=javaexplorer1&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=percentile&amp; exclude_repo=javaexplorer1&amp;theme=default&amp;hide_border=true">
   <img align="center" alt="Dmitriy Rozhkov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javaexplorer1&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=percentile&amp;exclude_repo=javaexplorer1&amp;theme=default&amp;hide_border=true" style="max-width: 100%;" align="middle">
@@ -10,6 +23,7 @@
 </tr>
 </thead>
 </table>
+-->
 
 <p align="center" dir="auto">
 	  <a href="https://www.linkedin.com/in/dmitriy-rozhkov/" rel="nofollow">
