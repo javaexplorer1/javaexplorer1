@@ -28,7 +28,7 @@
 	 </a>
 </p>
 
-### Languages and tools: 
+### Languages and tools that I use: 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title ="Java" width="40" height="40"/>&nbsp;&nbsp;
